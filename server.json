@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-07-29T19:36:44.505Z"
+    },
+    {
+      "id": "2",
+      "description": "Hambúrguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2022-07-29T19:30:44.505Z"
+    },
+    {
+      "id": "3",
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2022-07-29T19:24:44.505Z"
+    },
+    {
+      "id": "4",
+      "description": "Dev",
+      "price": 1000,
+      "category": "Trabalho",
+      "type": "income",
+      "createdAt": "2024-02-19T12:37:31.266Z"
+    },
+    {
+      "id": "4eb9",
+      "description": "Teste nova venda",
+      "price": 100,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-02-19T16:54:15.447Z"
+    },
+    {
+      "id": "e715",
+      "description": "Hamburger",
+      "price": 30,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-04-10T13:19:42.683Z"
+    },
+    {
+      "id": "e022",
+      "description": "Pizza",
+      "price": 70,
+      "category": "Aliementação",
+      "type": "outcome",
+      "createdAt": "2024-04-11T22:37:59.680Z"
+    }
+  ]
+}
